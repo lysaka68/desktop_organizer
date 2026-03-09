@@ -14,7 +14,7 @@
 Имате два варианта:
 
 ### 1. За обикновени потребители (EXE)
-- Отидете в секцията [Releases](линк_към_твоя_release) вдясно.
+- Отидете в секцията [Releases](https://github.com/lysaka68/desktop_organizer/releases/tag/v1.0.0) вдясно.
 - Изтеглете файла `desktop_organizer.exe`.
 - Стартирайте го и изберете метод на организиране.
 
@@ -23,4 +23,4 @@
 1. Уверете се, че имате инсталиран Python 3.x.
 2. Клонирайте хранилището:
    ```bash
-   git clone [https://github.com/твоят-потребител/Desktop-Organizer.git](https://github.com/твоят-потребител/Desktop-Organizer.git)
+   git clone [https://github.com/lysaka68/Desktop-Organizer.git](https://github.com/lysaka68/Desktop-Organizer.git)
